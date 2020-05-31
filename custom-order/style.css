@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0%;
+  background: url(bg-image.jpg);
+  align-self: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+/* Contact us*/
+
+form {
+  max-width: 70%;
+  color: black;
+  font-family: 'Raleway', sans-serif;
+  background-color: rgba(0,0,0,0.2);
+  margin: 40px 15%;
+  padding: 20px 40px;
+}
+.form-heading{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  text-transform: uppercase;
+  text-shadow: 2px 2px white;
+  font-weight: 200;
+  margin-top: 10vh;
+}
+form > button{
+  margin-top: 20px;
+
+}
+
+/* Custom Order*/

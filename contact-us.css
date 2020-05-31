@@ -1,0 +1,55 @@
+/* ==================================Contact us=====================*/
+body
+{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        background:url(/contact\ us/sliderimgfour.jpg);
+        background-size: cover;
+        background-position: center;
+        
+}
+
+.contact-form {
+    margin: 4% 15%;
+    background-color: rgba(0, 0, 0, 0.9);
+    padding: 20px 30px;
+    max-width: 75%;
+    color: white;
+}
+
+.contact-us {
+    margin: 10% 0;
+}
+
+.contact-us h1 {
+    font-size: 70px;
+    text-align: center;
+    margin-top: 70px;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 8px white;
+    color: black;
+    font-weight: 200;
+    font-family: Caveat-Bold;
+}
+
+.contact-us h4 {
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 8px white;
+    color: rgb(85, 136, 231);
+    font-weight: 100;
+    margin-top: 20px;
+    word-spacing: 10px;
+    font-family: Acme-Regular;
+    border-collapse: collapse;
+}
+
+/* ===========================  Contact us =========================== */
+
+/*====================================== Nav Baar Start Here======================================  */
+.textdecor
+{
+color: black;
+}

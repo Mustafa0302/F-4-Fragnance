@@ -1,0 +1,79 @@
+.text-on-image-forher
+{
+    position: absolute;
+    top: 40vh;
+    margin-left: 40%;
+    text-align: center;
+    display: block;
+    justify-content: center;
+}
+@media screen and (max-width: 900px) {
+    .text-on-image-forher {
+      margin-left: 30%;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .text-on-image-forher {
+      margin-left: 20%;
+    }
+  }
+  @media screen and (max-width: 500px) {
+    .text-on-image-forher {
+      margin-left: 10%;
+    }
+  }
+
+  /* =========================swiper slider start=======================  */
+
+  .swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+  }
+
+  .exclusive-cards
+  {
+    text-decoration: none;
+    color: white;
+   
+  }
+
+.exclusivebg-imageone
+{
+  background-image: url(silder-imageone.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.exclusivebg-imagetwo
+{
+  background-image: url(slider\ back.jpg);
+  background-position: center;
+  background-size: cover;
+}
+  /* =========================swiper slider End=======================  */
+
+  /* footer  */
+  .last-sec {
+    background-color: #B20182 !important;
+  }
+  .footer>h3 {
+    color: #B20182 !important;
+  }

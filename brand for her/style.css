@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+  
+
+  /* =========================top image start=======================  */
+
+.text-on-image-forher
+{
+    position: absolute;
+    top: 40vh;
+    margin-left: 40%;
+    text-align: center;
+    display: block;
+    justify-content: center;
+    font-family: 'Playfair Display', serif;
+}
+@media screen and (max-width: 900px) {
+    .text-on-image-forher {
+      margin-left: 30%;
+    }
+  }
+  @media screen and (max-width: 600px) {
+    .text-on-image-forher {
+      margin-left: 20%;
+    }
+  }
+  @media screen and (max-width: 500px) {
+    .ttext-on-image-forher {
+      margin-left: 10%;
+    }
+  }
+
+  /* =========================top image End=======================  */
+
+  /* ---------------------brand image setting----------------------  */
+.allbrandstop
+{
+    text-align: center;
+}
+img.allbrandsimg
+{
+    height: 10vh;
+    width: 20%;
+}
+  /* ---------------------brand image setting----------------------  */
+
+
+ /* footer  */
+ .last-sec {
+  background-color: #B20182 !important;
+}
+.footer>h3 {
+  color: #B20182 !important;
+}
+/* foooter  */
